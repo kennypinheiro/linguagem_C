@@ -1,4 +1,4 @@
-# 💾 🇨 Desvendando a Linguagem C: Conceitos & Exercícios
+# 🤖 🇨 Desvendando a Linguagem C: Conceitos & Exercícios
 
 Este repositório foi criado com o objetivo de consolidar meus estudos na **Linguagem C**. Aqui, você encontrará a implementação de diversos exercícios práticos, além de anotações essenciais sobre a sintaxe, lógica de programação e conceitos estruturais da linguagem.
 
