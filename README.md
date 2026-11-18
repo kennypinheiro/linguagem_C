@@ -32,7 +32,6 @@ Implementação de estruturas de decisão e laços de repetição, aplicando con
 A essência do C reside na capacidade de manipular a memória diretamente:
 
     Aritmética de Ponteiros.
-
     Alocação Dinâmica na memória Heap.
 
 
