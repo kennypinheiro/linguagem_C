@@ -31,7 +31,7 @@ Existem 27 palavras-chaves (ou palavras reservadas) definidas pel aversão origi
 
 - Lista de palavras chaves de C ANSI**
   
-| **Tab 1.1**|  |  |  |
+| **Tabela 1.1**|  |  |  |
 | :--- | :--- | :--- | :--- |
 | `auto`|  `double` |  `int` |  `struct` |
 | `break`|  `else` |  `long` |  `switch` |
