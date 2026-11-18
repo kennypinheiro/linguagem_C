@@ -16,13 +16,16 @@ Este repositório foi criado com o objetivo de consolidar meus estudos na **Ling
 
 Ao longo dos códigos, busco documentar e aplicar os seguintes pilares da linguagem:
 
+
 1. Tipagem e Sintaxe Estrita
 
 Diferente de linguagens de alto nível, C exige precisão na definição dos tipos de dados (int, float, char, double) e no uso correto dos especificadores de formato (%d, %f, %c).
 
+
 2. Controle de Fluxo e Lógica Discreta
 
 Implementação de estruturas de decisão e laços de repetição, aplicando conceitos de álgebra booleana para simplificação de expressões lógicas.
+
 
 3. Gerenciamento de Memória
 
