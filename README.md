@@ -42,7 +42,7 @@ Para compilar e rodar os códigos deste repositório, você precisará de um com
 O projeto está organizado por tópicos para facilitar a navegação:
 
 ```text
-├── 01_Fundamentos/        # Variáveis, tipos de dados, operadores e Entrada/Saída
+├── 01_Fundamentos/        # Conceitos introdutórios, variáveis, tipos de dados, operadores e Entrada/Saída
 ├── 02_Estruturas/         # Condicionais (if/else, switch) e Repetição (while, for)
 ├── 03_Funcoes/            # Escopo, protótipos e passagem de parâmetros
 ├── 04_Vetores_Matrizes/   # Arrays unidimensionais e multidimensionais
