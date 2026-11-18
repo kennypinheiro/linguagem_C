@@ -29,7 +29,7 @@ Ao longo dos códigos, busco documentar e aplicar os seguintes pilares da lingua
 
 3. Gerenciamento de Memória
 
-    A essência do C reside na capacidade de manipular a memória diretamente: (Aritmética de Ponteiros Alocação | Dinâmica na memória Heap.)
+    A essência do C reside na capacidade de manipular a memória diretamente: (Aritmética de Ponteiros | Alocação Dinâmica na memória Heap.)
 
 
 🛠️ Como Executar os códigos
