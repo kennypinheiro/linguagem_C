@@ -34,7 +34,9 @@ O uso adequado de blocos de código permite que algoritmos complexos sejam imple
 
 A versão original da linguagem C contava com **27 palavras-chave** (ou palavras reservadas). Posteriormente, o comitê ANSI (*American National Standards Institute*) adicionou mais cinco palavras, totalizando as **32 palavras-chave** padronizadas pelo **ANSI C**, listadas na tabela abaixo:
 
-| **Tabela 1.1 — Palavras-chave do ANSI C** |  |  |  |
+— Palavras-chave do ANSI C
+
+| **Tabela 1.1** |  |  |  |
 | --- | --- | --- | --- |
 | `auto` | `double` | `int` | `struct` |
 | `break` | `else` | `long` | `switch` |
