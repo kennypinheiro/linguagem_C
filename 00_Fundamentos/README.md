@@ -30,7 +30,7 @@ Blocos de código permitem que muitos algortimos sejam implementados com clareza
 Existem 27 palavras-chaves (ou palavras reservadas) definidas pel aversão original de C e masi cinco palavras que foram adicionadas pelo comitê ANSI (American Standard National Institute). Todas estas 32 palavras-chaves podem ser visualizadas na tabela 1.1 abaixo:
 
 **Tabela 1.1 - Lista de palavras chaves de C ANSI** 
-
+| | | |
 | :--- | :--- | :--- | :--- |
 | `auto`|  `double` |  `int` |  `struct` |
 | `break`|  `else` |  `long` |  `switch` |
