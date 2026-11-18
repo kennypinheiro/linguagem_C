@@ -22,11 +22,11 @@ Diferente de linguagens de alto nível, C exige precisão na definição dos tip
 
 2. Controle de Fluxo e Lógica Discreta
 
-Implementação rigorosa de estruturas de decisão e laços de repetição, aplicando conceitos de álgebra booleana para otimização de condições.
+Implementação de estruturas de decisão e laços de repetição, aplicando conceitos de álgebra booleana para simplificação de expressões lógicas.
 
 3. Gerenciamento de Memória
 
-A essência do C reside na capacidade de manipular a memória diretamente. Este módulo foca em:
+A essência do C reside na capacidade de manipular a memória diretamente:
 
     Aritmética de Ponteiros.
 
