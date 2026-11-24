@@ -1,6 +1,6 @@
 # 💻 Sockets in C - Terminal chatting
 
-![Screenshot - Chat](https://github.com/kennypinheiro/linguagem_C/blob/main/02_Sockets/chat-socket.png)
+![Screenshot - Chat](https://github.com/kennypinheiro/linguagem_C/blob/main/06_Sockets/chat-socket.png)
 
 Um socket está associado a um file descriptor que por sua vez está associado a um processo sendo rodando na memória para possibilitar a comunicação entre 2 hosts através da rede de computadores.
 
