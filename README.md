@@ -48,4 +48,6 @@ O projeto está organizado por tópicos para facilitar a navegação:
 ├── 03_Vetores_Matrizes/   # Arrays unidimensionais e multidimensionais
 ├── 04_Ponteiros/          # Endereçamento, aritmética de ponteiros e referências
 ├── 05_Estruturas_Dados/   # Structs, Unions e Alocação Dinâmica (malloc, free)
-└── 06_Exercicios/         # Desafios práticos e algoritmos resolvidos
+├── 06_Sockets/            # Client, Server, Ip address, Port
+└── 07_Exercicios/         # Desafios práticos e algoritmos resolvidos
+
