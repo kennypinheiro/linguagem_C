@@ -1,8 +1,8 @@
-# 💻 Sockets in C - Terminal chatting
+# 📡 Sockets in C - Terminal chatting
 
 ![Screenshot - Chat](https://github.com/kennypinheiro/linguagem_C/blob/main/06_Sockets/chat-socket.png)
 
-* Conceito geral:
+## 🌐 Conceito geral:
 
 Um socket está associado a um file descriptor que por sua vez está associado a um processo rodando na memória para possibilitar a comunicação entre 2 hosts através da rede de computadores.
 
